@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/httppennadavinay.github.io/movie-search-app/static/css/main.82ea7240.css",
+    "main.js": "/httppennadavinay.github.io/movie-search-app/static/js/main.e7d9ad35.js",
+    "static/js/787.269438a4.chunk.js": "/httppennadavinay.github.io/movie-search-app/static/js/787.269438a4.chunk.js",
+    "index.html": "/httppennadavinay.github.io/movie-search-app/index.html",
+    "main.82ea7240.css.map": "/httppennadavinay.github.io/movie-search-app/static/css/main.82ea7240.css.map",
+    "main.e7d9ad35.js.map": "/httppennadavinay.github.io/movie-search-app/static/js/main.e7d9ad35.js.map",
+    "787.269438a4.chunk.js.map": "/httppennadavinay.github.io/movie-search-app/static/js/787.269438a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82ea7240.css",
+    "static/js/main.e7d9ad35.js"
+  ]
+}
